@@ -6,7 +6,7 @@ const Title = () => {
   return (
     <View style={styles.field1}>
       <Text style={styles.header}>
-        {"\n"}Hello, Joy {"\n"}
+        {"\n"}Hello, Afia {"\n"}
         <Text style={styles.miniHeader}>44 tasks today</Text>
       </Text>
       <Image source={pic4} style={styles.picFour} />
